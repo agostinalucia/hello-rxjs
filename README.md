@@ -1,4 +1,4 @@
-![image](https://cloud.githubusercontent.com/assets/1544557/19449642/44435154-945b-11e6-889e-40e8896e3f12.png)
+![image](https://ultimateangular.com/assets/img/banners/ua-github.svg)
 
 # Hello RxJS
 
